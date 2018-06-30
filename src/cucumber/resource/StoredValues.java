@@ -23,9 +23,9 @@ public class StoredValues
 	}
 	
 	
-	public String storeObject()
+	public void storeObject()
 	{
-		return null;
+		
 		
 	}
 }
