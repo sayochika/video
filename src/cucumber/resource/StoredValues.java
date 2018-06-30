@@ -22,4 +22,10 @@ public class StoredValues
 		return values.get(key.toLowerCase().trim()).toString();
 	}
 	
+	
+	public String storeObject()
+	{
+		return null;
+		
+	}
 }
